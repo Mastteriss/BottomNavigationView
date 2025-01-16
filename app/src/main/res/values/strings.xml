@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomNavigationView3.0</string>
+    <string name="API_KEY">01b74c22aa6ee161a56c99e355116e5b</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
